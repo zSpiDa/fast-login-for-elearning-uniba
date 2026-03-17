@@ -1,4 +1,4 @@
-# 🎓 Auto-Student per UniBa
+# 🎓 Fast Login per elearning UniBa
 
 Una leggerissima estensione per browser (Chrome, Brave, Edge) che seleziona automaticamente il ruolo "Studenti/Dottorandi/Alumni UniBa" nella pagina di login dell'Elearning dell'Università degli Studi di Bari Aldo Moro.
 
