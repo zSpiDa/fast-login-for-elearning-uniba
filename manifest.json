@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Fast Login for elearnign UniBa",
+  "version": "1.0",
+  "description": "Seleziona automaticamente il ruolo Studente nel login UniBa.",
+  "content_scripts": [
+    {
+      "matches": ["https://idpuniba.uniba.it/*"],
+      "js": ["content.js"]
+    }
+  ]
+}
